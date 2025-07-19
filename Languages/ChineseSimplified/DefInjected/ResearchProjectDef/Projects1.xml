@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryogenic power I -->
+  <CryoPowerI.label>制冷发电机I</CryoPowerI.label>
+  <!-- EN: Build cryogenic generators on top of any Ground. -->
+  <CryoPowerI.description>解锁可在任意地形上建造的制冷发电机I。</CryoPowerI.description>
+  
+</LanguageData>
